@@ -108,6 +108,3 @@ This project uses the [Fake Store API](https://fakestoreapi.com/docs) to fetch p
 - **Backend:** Node.js (optional for handling authentication or mock server).
 - **API:** Fake Store API.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
